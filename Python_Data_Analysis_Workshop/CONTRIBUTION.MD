@@ -24,7 +24,7 @@ Navigate to the repository's directory on your local machine using the `cd` comm
 cd DataVista-2024
 ```
 
-Now, create a new branch for your contribution:
+Now, create a new branch for your contribution, ensuring no spaces between words:
 
 ```bash
 git checkout -b your-full-name
@@ -34,14 +34,14 @@ Replace `your-full-name` with your actual full name.
 
 ## Step 4: Work on the Python Notebook
 
-Open the Jupyter Notebook file named `Python_Data_Analysis_Workshop.ipynb` using your preferred Jupyter environment. Work on your contributions, make edits, or add new content.
+Open the Jupyter Notebook file named `Your_Full_Name.ipynb` using your preferred Jupyter environment. Work on your contributions, make edits, or add new content.
 
 ## Step 5: Save and Commit Changes
 
 After making your changes, save the notebook file and commit the changes to your local branch:
 
 ```bash
-git add Python_Data_Analysis_Workshop.ipynb
+git add Your_Full_Name.ipynb
 git commit -m "Add your descriptive commit message here"
 ```
 
